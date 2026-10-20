@@ -3,13 +3,13 @@ This page will contain some practice questions in C++ regarding class. It will i
 
 # List of programs:
 
-[Program 1:](https://www.example.com) Write a CPP program to create a class Student with a data member name and display the student's name. 
+[Program 1:](https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program1.md) Write a CPP program to create a class Student with a data member name and display the student's name. 
 
 
 # Other Branches:
 
-[Object](https://www.example.com)
+[Object](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/Object)
 
-[Arrays](https://www.example.com)
+[Arrays](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/Array)
 
-[cin-&-cout](https://www.example.com)
+[cin-&-cout](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/cin-%26-cout)
