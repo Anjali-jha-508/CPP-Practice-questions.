@@ -34,4 +34,14 @@ Enter students name:     (Enter any name in front of it for example Alex and pre
 Students name is: Alex   (after pressing enter)
 ```
 
-[Back](https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/Overview.md)&nbsp;[Next]()
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/Overview.md">← Back</a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program2.md">Next →</a>
+    </td>
+  </tr>
+</table>
+ 
