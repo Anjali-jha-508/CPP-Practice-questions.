@@ -13,6 +13,7 @@ public:
   int age;
  
 void display() {
+  cout << "---STUDENT DETAILS---" << endl;
   cout << "Students name is: Alex Michel" << endl;
   cout << "Students age is: 19 " << endl;
   cout << "Students score: 96" << endl;
@@ -29,7 +30,8 @@ return 0;
 
 ### Output
 
-```text 
+```text
+---STUDENT DETAILS---
 Students name is: Alex Michel
 Students age is: 19 3375104
 Students score: 96
