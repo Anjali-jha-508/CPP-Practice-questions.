@@ -48,7 +48,7 @@ Addition of 2 and 100 is: 102
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program4.md">← Back</a>
+      <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program4.md">← Previous</a>
     </td>
     <td align="right">
       <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program6.md">Next →</a>
