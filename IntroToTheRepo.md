@@ -12,7 +12,8 @@ You can learn your code, but it's very important to understand your code.
 
 # Branches in this repository for you to visit:
 
-**[cin-&-cout](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/cin-%26-cout)** &nbsp; 
-**[Object](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/Object)** &nbsp;
-**[Class](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/Class)** &nbsp;
+**[cin-&-cout](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/cin-%26-cout)** &nbsp;  
+
+**[Class-&-object](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/Class-%26-object)** &nbsp;
+
 **[Arrays](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/Array)** &nbsp;
