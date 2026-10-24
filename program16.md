@@ -57,7 +57,7 @@ The perimeter of the rectangle is: 18
       <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program15.md">← Previous</a>
     </td>
     <td align="right">
-      <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program16.md">Next →</a>
+      <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program17.md">Next →</a>
     </td>
   </tr>
 </table>
