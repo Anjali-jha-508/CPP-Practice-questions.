@@ -1,5 +1,5 @@
 # Practice programs based on "class" in CPP
-This page will contain some practice questions in C++ regarding class and objects of the class. It will include data members, member functions, calling of function from class to main, etc.
+This page contains some practice questions in C++ regarding class and objects of the class. It will include data members, member functions, calling of function from class to main, etc.
 
 # List of programs:
 
