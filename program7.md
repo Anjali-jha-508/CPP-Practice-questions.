@@ -46,7 +46,7 @@ The area of the circle with the radius 2 is 12.5664
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program6.md">← Back</a>
+      <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program6.md">← Previous</a>
     </td>
     <td align="right">
       <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program8.md">Next →</a>
