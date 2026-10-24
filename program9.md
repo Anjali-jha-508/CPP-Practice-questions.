@@ -51,7 +51,7 @@ Total marks is: 283
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program7.md">← Back</a>
+      <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program7.md">← Previous</a>
     </td>
     <td align="right">
       <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program9.md">Next →</a>
