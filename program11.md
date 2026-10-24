@@ -61,4 +61,8 @@ Price: 890
     <td align="left">
       <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program10.md">← Back</a>
     </td>
+    <td align="right">
+      <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program12.md">Next →</a>
+    </td>
+  </tr>
 </table>
