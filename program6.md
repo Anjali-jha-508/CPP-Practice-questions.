@@ -55,7 +55,7 @@ Subtraction of 2 and 100 is: -98
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program5.md">← Back</a>
+      <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program5.md">← Previous</a>
     </td>
     <td align="right">
       <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class/program7.md">Next →</a>
