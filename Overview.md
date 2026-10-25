@@ -33,10 +33,26 @@ Write a CPP program to create a class Number with a data member num and a member
 
 [Program 14:](https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program14.md) Write a CPP program to create a class Car with registration number, model, and price. Accept and display the car information. 
 
-[Program 15:](https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program15.md) Write a CPP program to create 
+[Program 15:](https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program15.md) Write a CPP program to create an object of class Student and display student details. 
+
+### Programs which specifies presence of 'Objects'
+
+[Program 16:](https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program16.md) Write a CPP program to create a class Rectangle and use an object to calculate its area and perimeter.  
+
+[Program 17:](https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program17.md) Write a CPP program to create a class Employee and create an object to calculate the annual salary of an employee. 
+
+[Program 18:](https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-&-object/program18.md) Write a CPP program to create a class Calculator and create an object to perform addition, subtraction, multiplication, and division. 
+
+[Program 19:](https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program19.md) Write a CPP program to create a class Distance with distance in meters. Use an object to convert it into kilometers and meters. 
+
+[Program 20:](https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program20.md) Write a CPP program to define a class Time with hours, minutes, and seconds. Create an object to display the time.
+
+[Program 21:](https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program21.md) Write a CPP program to create a class Employee and create multiple objects to store and display details of five employees. 
 
 # Other Branches:
 
 [Arrays](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/Array)
 
 [cin-&-cout](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/cin-%26-cout)
+
+[Function-&-class](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/Function-%26-class)
