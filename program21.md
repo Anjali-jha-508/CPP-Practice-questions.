@@ -124,9 +124,6 @@ ID              Name            Designation     Salary
     <td align="left">
       <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program20.md">← Previous</a>
     </td>
-    <td align="right">
-      <a href="https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program22.md">Next →</a>
-    </td>
   </tr>
 </table>
 
