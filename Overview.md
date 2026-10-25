@@ -55,4 +55,4 @@ Write a CPP program to create a class Number with a data member num and a member
 
 [cin-&-cout](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/cin-%26-cout)
 
-[Function-&-class](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/Function-%26-class)
+[Function-&-class](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/functions-%26-class)
