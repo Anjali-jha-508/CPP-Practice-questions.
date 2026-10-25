@@ -18,4 +18,4 @@ You can learn your code, but it's very important to understand your code.
 
 **[Arrays](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/Array)** &nbsp;
 
-**[Functions-&-class](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/Function-%26-class)**
+**[Functions-&-class](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/functions-%26-class)**
