@@ -17,3 +17,5 @@ You can learn your code, but it's very important to understand your code.
 **[Class-&-object](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/Class-%26-object)** &nbsp;
 
 **[Arrays](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/Array)** &nbsp;
+
+**[Functions-&-class](https://github.com/Anjali-jha-508/CPP-Practice-questions./tree/Function-%26-class)**
