@@ -1,6 +1,6 @@
 # Program 9
 
-Write a CPP program to create a class Student with three marks as data member num and a member function to check whether the number is even or odd.
+Write a CPP program to create a class Student with three marks as data member num and a member function to calculate the total marks
 
 ```cpp
 #include <iostream> 
