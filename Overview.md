@@ -21,7 +21,7 @@ Write a CPP program to create a class Circle with a data member radius and a mem
 [Program 8:](https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program8.md)
 Write a CPP program to create a class Number with a data member num and a member function to check whether the number is odd or even.
 
-[Program 9:](https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program9.md) Write a CPP program to create a class student with three marks as data member num and a member function to check whether the number is even or odd.
+[Program 9:](https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program9.md) Write a CPP program to create a class student with three marks as data member num and a member function to calculate the total marks.
 
 [Program 10:](https://github.com/Anjali-jha-508/CPP-Practice-questions./blob/Class-%26-object/program10.md) Write a CPP program to create a class BankAccount with account number, account holder name, and balance. Display the account details.  
 
