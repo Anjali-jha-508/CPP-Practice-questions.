@@ -117,8 +117,9 @@ ID              Name            Designation     Salary
 --------------------------------------------------------
 346             Gabi            Manager         450000
 ```
-
-
+ 
+> This can be done using loops and arrays also
+--- 
 <table width="100%">
   <tr>
     <td align="left">
