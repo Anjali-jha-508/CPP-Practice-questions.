@@ -1,6 +1,6 @@
 # Program 11
 
-Write a CPP program to create a class NNumber with a function square() inside the class to calculate the square of the number.
+Write a CPP program to create a class Number with a function square() inside the class to calculate the square of the number.
 
 ```cpp 
 #include <iostream>  
