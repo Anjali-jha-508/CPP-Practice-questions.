@@ -2,13 +2,12 @@
 
 Write a CPP program to create a class Employee with a function inside the class to calculate annual salary.
 
-```cpp 
-#include <iostream>
+```cpp #include <iostream>
 #include <string>
 using namespace std;
 
 class Employee {
-pubic:
+public:
   string name;
   int empId, mnthSal, bonus, total_salary;
 
@@ -16,7 +15,7 @@ void userinput() {
   cout << "---ENTER EMPLOYEE DETAILS---" << endl;
   cout << "Employee name: ";
   getline(cin, name);
-  cin.ignore;
+  cin.ignore();
   cout << "Employee Id: ";
   cin >> empId;
   cout << "Monthly Salary: ";
@@ -29,8 +28,8 @@ void calcTsal() {
   total_salary = (mnthSal * 12) + bonus;
 }
 
-void display {
-  cout << "---EMPLOYEE DETAILS---";
+void display() {
+  cout << endl <<"---EMPLOYEE DETAILS---" << endl;
   cout << "Name: " << name << endl;
   cout << "ID: " << empId << endl;
   cout << "Total Salary: " << total_salary << endl;
@@ -42,15 +41,23 @@ int main() {
   e1.userinput();
   e1.display();
 return 0;
-}   
-   
+}  
 ```
 ---
 
 ### Output
 
 ```text
- 
+---ENTER EMPLOYEE DETAILS---
+Employee name: Alex Michel 
+Employee Id: 679080
+Monthly Salary: 75000
+Annual Bonus: 15000
+
+---EMPLOYEE DETAILS---
+Name: Alex Michel
+ID: 679080
+Total Salary: 3993600 
 ```
 ---
 
